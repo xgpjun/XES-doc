@@ -2,7 +2,7 @@ name: Workflow Build
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   # 自动部署GitPage
   gitpage:
