@@ -6,21 +6,21 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Folia服务器插件开发教程',
-  tagline: '小钢炮的Folia浅析',
+  title: 'XgpEquipmentSlot文档',
+  tagline: '小钢炮的插件教程系列',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://xgpjun.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Folia-Tutorials/',
+  baseUrl: '/XES-doc/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'xgpjun', // Usually your GitHub org/user name.
-  projectName: 'Folia-Tutorials', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  projectName: 'XES-doc', // Usually your repo name.
+  deploymentBranch: 'page',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/xgpjun/Folia-Tutorials/blob/main'
+            'https://github.com/xgpjun/XES-doc/blob/master'
         },
         blog: false,
         theme: {
@@ -78,14 +78,10 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/xgpjun/Folia-Tutorials',
+            href: 'https://github.com/xgpjun/XgpEquipmentSlot',
             label: 'GitHub',
             position: 'right',
           },
-          // {
-          //   type: 'localeDropdown',
-          //   position: 'right',
-          // },
         ],
       },
       // 底部链接
@@ -123,7 +119,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/xgpjun/Folia-Tutorials',
+                href: 'https://github.com/xgpjun/XgpEquipmentSlot',
               },
             ],
           },
