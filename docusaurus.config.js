@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'XgpEquipmentSlot文档',
+  title: '插件文档',
   tagline: '小钢炮的插件教程系列',
   favicon: 'img/favicon.ico',
 
