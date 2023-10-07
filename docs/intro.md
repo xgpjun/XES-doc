@@ -15,33 +15,46 @@ sidebar_position: 1
 >
 > 👆 加群闲聊 !
 
->   🎮  [MCBBS发布贴](https://www.mcbbs.net/thread-1459332-1-1.html)
->
->   👆 评分给作者更新的动力！
+---
 
-> 📒 [开源地址~](https://github.com/xgpjun/XgpEquipmentSlot)
->
-> 👆 有能力点个star捏！
+获得插件: 
+- ￥0 [自行构建](https://github.com/xgpjun/XgpEquipmentSlot/tree/master)
+- ￥99 联系作者购买(qq): 357004885  
+- ￥105 [爱发电](https://afdian.net/a/xgp666)
 
-
-
-> 💸富佬随意：
-
-[![](https://s2.loli.net/2023/07/12/ZEBA3zusOvFNWLj.png?padding=true?align=center)](https://afdian.net/a/xgp666)
 
 ---
 ## 简介
 
 > - ✔**Mysql Sqlite Redis** 支持！
 > - ✔简单的**套装**效果！ 给与属性、药水效果。
+> - ✔支持显示套装效果而不改变装备本身的lore。
+> - ✔支持lore、nbt以及正则表达式的规则设定装备类型与套装效果。
+> - ✔支持点击空槽位翻页，可达到翻页的效果。
+> - ✔支持单独槽位检测权限，无权限则无法操作。
 > - ✔支持: **MMOItems** **SX2/3** **AP3**  **OriginAttribute** 属性插件.
 > - ✔(兼容附属 ZF-Runes ...更多的话私聊我看看 万一实现了呢).
 > - ✔自定义页面支持各种物品库: **ItemsAdder**、**NeigeItem**、**MythicMobs**
 > - ✔**自定义配置**的额外装备栏！
 > - ✔**Shift+左键**自动寻找空位置自动填入装.
-> - ✔理论支持 **全版本**  但是前置并不是全版本~ 不支持的话... 私信我改一下
+> - ✔理论支持 **全版本** 
 > - ✔没了喵
+
+## 样例
+
+注：如下图片与信息仅作展示，资源不包括在插件中。 请各位自行制作自己的资源素材。
+
+ia贴图适配样例：
+
+![ia.png](https://s2.loli.net/2023/10/07/6VrREbagWdLXzOx.png)
+
+自动添加套装信息:
+
+![ia3.png](https://s2.loli.net/2023/10/07/doTK3jgbJkDFwEp.png)
+
+![ia2.png](https://s2.loli.net/2023/10/07/KWbXvTFtzyoPul9.png)
 
 事不宜迟，让我们速速开始！
 
 ![](https://s2.loli.net/2023/08/10/ZfDBeQ762cn9NFT.jpg)
+
