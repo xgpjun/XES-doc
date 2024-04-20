@@ -18,8 +18,8 @@ sidebar_position: 1
 ---
 
 获得插件: 
-- ￥0 [自行构建](https://github.com/xgpjun/XgpEquipmentSlot/tree/master)
-- ￥99 联系作者购买(qq): 357004885  
+- ~~￥0 [自行构建](https://github.com/xgpjun/XgpEquipmentSlot/tree/master)~~  消失了 失效了
+- ￥99 联系作者购买(qq): 357004885
 - ￥105 [爱发电](https://afdian.net/a/xgp666)
 
 
